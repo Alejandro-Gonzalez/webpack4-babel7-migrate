@@ -116,7 +116,7 @@ Dejar de usar `webpack.optimize.UglifyJsPlugin` y usar algunos de los siguientes
 	
 [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin)
 
-[https://github.com/webpack-contrib/uglifyjs-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin)
+[terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin)
 
 
 ```js
